@@ -1,12 +1,23 @@
 import React from 'react';
-import { Button } from 'antd';
+import {
+  Switch,
+  Route
+} from 'react-router-dom';
+import SongGame from './components/SongGame/SongGame'
+import HomePage from './components/HomePage/HomePage'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Song Guesser</h1>
-      <Button type="primary">Start Game</Button>
+      <Switch>
+        <Route path="/game">
+          <SongGame></SongGame>
+        </Route>
+        <Route path="/">
+          <HomePage></HomePage>
+        </Route>
+      </Switch>
     </div>
   );
 }
