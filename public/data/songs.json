@@ -1,0 +1,72 @@
+[
+  {
+    "id": 963098,
+    "title": "Eye of the Tiger",
+    "title_short": "Eye of the Tiger",
+    "preview": "https://cdns-preview-1.dzcdn.net/stream/c-157fa09e88b03348ba00ed6e61d248e6-5.mp3",
+    "artist": { "id": 39, "name": "Survivor" }
+  },
+  {
+    "id": 12754208,
+    "title": "Keep on Loving You",
+    "title_short": "Keep on Loving You",
+    "preview": "https://cdns-preview-9.dzcdn.net/stream/c-9a7e356fa020ead7f690f09359efb6a2-6.mp3",
+    "artist": { "id": 3875, "name": "REO Speedwagon" }
+  },
+  {
+    "id": 602137972,
+    "title": "We Built This City",
+    "title_short": "We Built This City",
+    "preview": "https://cdns-preview-2.dzcdn.net/stream/c-232990c8f476a53b8e8f1d21456a9a7c-6.mp3",
+    "artist": { "id": 7358, "name": "Starship" }
+  },
+  {
+    "id": 75487832,
+    "title": "Make Me Lose Control",
+    "title_short": "Make Me Lose Control",
+    "preview": "https://cdns-preview-a.dzcdn.net/stream/c-ab1177ba9d68a66d2cd8a5986bebb4d7-2.mp3",
+    "artist": { "id": 3166, "name": "Eric Carmen" }
+  },
+  {
+    "id": 3960802,
+    "title": "Fools Gold (Remastered)",
+    "title_short": "Fools Gold",
+    "preview": "https://cdns-preview-b.dzcdn.net/stream/c-b5c2184fd5dc6bf2c85a4480162e772a-6.mp3",
+    "artist": { "id": 2731, "name": "The Stone Roses" }
+  },
+  {
+    "id": 5404589,
+    "title": "Waiting for a Star to Fall",
+    "title_short": "Waiting for a Star to Fall",
+    "preview": "https://cdns-preview-a.dzcdn.net/stream/c-a39d1c5b9db881e3858809ecf5507e86-10.mp3",
+    "artist": { "id": 7993, "name": "Boy Meets Girl" }
+  },
+  {
+    "id": 75575011,
+    "title": "Goody Two Shoes",
+    "title_short": "Goody Two Shoes",
+    "preview": "https://cdns-preview-e.dzcdn.net/stream/c-eb9103ebbd31ff881bf7e7236175599f-3.mp3",
+    "artist": { "id": 5566, "name": "Adam Ant" }
+  },
+  {
+    "id": 581533,
+    "title": "Can't Fight This Feeling",
+    "title_short": "Can't Fight This Feeling",
+    "preview": "https://cdns-preview-f.dzcdn.net/stream/c-f701e3ec153738cf4da9d08dbe222a2e-5.mp3",
+    "artist": { "id": 3875, "name": "REO Speedwagon" }
+  },
+  {
+    "id": 5404549,
+    "title": "Africa",
+    "title_short": "Africa",
+    "preview": "https://cdns-preview-c.dzcdn.net/stream/c-c74a797f79805a5e65bc7f20523a7582-4.mp3",
+    "artist": { "id": 215, "name": "Toto" }
+  },
+  {
+    "id": 70751448,
+    "title": "You Spin Me Round (Like a Record)",
+    "title_short": "You Spin Me Round (Like a Record)",
+    "preview": "https://cdns-preview-b.dzcdn.net/stream/c-b1a19b762963476531b76496fc1898a0-3.mp3",
+    "artist": { "id": 4190, "name": "Dead or Alive" }
+  }
+]
