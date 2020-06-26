@@ -1,6 +1,7 @@
 <script>
   import { onMount } from 'svelte';
   import axios from 'axios';
+  import TrackPlayer from './TrackPlayer.svelte';
 
   // const NewGameUrl = 'https://localhost:5001/game/new';
   const NewGameUrl = '/data/songs.json';
@@ -39,7 +40,6 @@
   onMount (async () => {
     console.log('song game mounted!');
     let response = await axios.get(NewGameUrl).catch((err) => { console.error('Could not spawn new game.')});
-    console.log(response.data);
     tracks = response.data;
   });
 </script>
@@ -48,10 +48,7 @@
 
 {#if currentTrack && !complete}
   <div>
-    <figure>
-      <figcaption hidden>{currentTrack.title_short}</figcaption>
-      <audio controls src={currentTrack.preview} />
-    </figure>
+    <TrackPlayer track={currentTrack.preview} />
     <input placeholder="Enter a song name" bind:value={answer} />
   </div>
   <button on:click={submitAnswer}>Guess!</button>
