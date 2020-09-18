@@ -15,7 +15,7 @@
     font-size: 10rem;
     font-weight: 700;
     color: white;
-    text-shadow: 1px 1px black;
+    text-shadow: 1px 1px 0 black;
     opacity: 0.6;
   }
   button {
