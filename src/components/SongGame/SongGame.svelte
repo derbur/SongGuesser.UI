@@ -44,8 +44,6 @@
   });
 </script>
 
-<h2>This is the song game!</h2>
-
 {#if currentTrack && !complete}
   <div>
     <TrackPlayer track={currentTrack.preview} />
